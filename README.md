@@ -41,4 +41,17 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 7. After that I started my static web sevice and deployed my website on azure static web services.
 
 8. Finally my website was deployed on the azure web services and ready to use...
+
+9. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h1.png)
+10. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h2.png)
+11. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h3.png)
+12. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h4.png)
+13. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h5.png)
+14. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h6.png)
+15. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h7.png)
+16.![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h8.png)
+17. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h9.png)
+18. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h10.png)
+19.
+20.   
   
