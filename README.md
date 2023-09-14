@@ -10,9 +10,9 @@ The current landscape of home loan applications is often cumbersome and lacks ac
 Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project seeks to provide a comprehensive and easy-to-navigate web application that empowers users with the information they need to make informed decisions about home loans. We achieve this by offering the following key features:
 
 * Home Page: The Home Page serves as a welcoming gateway to the application, providing an overview of the services we offer and highlighting the core value proposition: simplifying the home loan process.
-* Service Page: This section delves into the various services we provide. It offers detailed explanations of different types of home loans, interest rates, and eligibility criteria. By providing this information, we enable users to explore and select the loan option that best suits their needs and financial circumstances.
-* About Page: The About Page introduces our team, mission, and values. It establishes trust and credibility with users, crucial for a financial service application. Users can learn about our commitment to transparency, customer service, and expertise in the home loan industry.
-* Contact Page: Our Contact Page ensures that users can easily reach out to us for personalized assistance or inquiries. It includes a user-friendly contact form and contact details, reinforcing our dedication to helping users throughout their home loan journey.
+* Service Page: This section delves into the various services we provide. It offers detailed explanations of different types of home loans, interest rates, and eligibility criteria. 
+* About Page: The About Page introduces our team, mission, and values.
+* Contact Page: Our Contact Page ensures that users can easily reach out to us for personalized assistance or inquiries.
 
 # Azure Services/Technologies used :
 1. Static Web Apps(for deployment of the website).
