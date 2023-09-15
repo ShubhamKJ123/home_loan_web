@@ -1,7 +1,7 @@
 # Home Loan WebApp
 This is my Microsoft FRT Internship Project
 
-URL: https://black-rock-07822e910.3.azurestaticapps.net
+URL: https://myprojectapp.z13.web.core.windows.net/
 
 # Project Statement
 This project effectively addresses the need for a user-friendly and informative platform for individuals seeking home loans, and it aligns its purpose and functionality with the identified problem statement, offering a clear and valuable solution to users in the home loan market.
