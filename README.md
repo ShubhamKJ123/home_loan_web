@@ -19,6 +19,24 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 2. Storage Accounts.
 3. Web Apps for Containers
 
+# Steps followed While Deploying on Azure Service along with Screenshot :
+1. Firstly, Open Azure Portal
+ 
+2. Now, Search for <b>Storage Accounts</b>
+
+3. After that, Write any Name in the Storage account name field click on REVIEW, and then the CREATE button 
+
+4. After Deployed Successfully, go to RESOURCES.
+
+5. In Resources, search for <b>Static Website</b>
+6. After that, we have to fill fill the name of the starting page i.e., index.html, and after fill click on save.
+
+7. Now, Search for <b>containers</b>.
+
+8. After opening, click on the upload button then drag and drop the source file.
+9. After uploading, again search for Static website, after opening, we can see that a Link is generated.
+10. Finally our WebApp is Deployed Successfully.
+
 # Web Technologies used :
 1. HTML
 2. CSS
@@ -27,22 +45,6 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 # IDE Used :
 * VS Code
 
-# Steps followed While Deploying on Azure Service :
-1. Firstly I built the complete project using VS Code IDE,then tested it on the server.
- 
-2. After that I have installed the git on my system.
-
-3. After that I uploaded and committed the project into my github repositry.
-
-4. The project was deployed using the github pages and tested it.
-
-5. After that I logged in to my azure account and created azure storage account.
-
-6. After that I have created a container with blob storage and uploaded my project code into the container.
-
-7. After that I started my static web sevice and deployed my website on azure static web services.
-
-8. Finally my website was deployed on the azure web services and ready to use...
 
 9. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h1.png)
 10. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h2.png)
