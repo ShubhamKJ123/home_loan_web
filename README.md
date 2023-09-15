@@ -15,20 +15,20 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 * Contact Page: Our Contact Page ensures that users can easily reach out to us for personalized assistance or inquiries.
 
 # Azure Services/Technologies used :
-1. Static Web Apps.
-2. Storage Accounts.
-3. Web Apps for Containers
+1. Storage accounts.
+2. Static website.
+3. Containers
 
 # Steps followed while Deploying on Azure along with Screenshot :
 1. Firstly, Open Azure Portal
  
-2. Now, Search for <b>Storage Accounts</b>
+2. Now, Search for <b>Storage accounts</b>
 
 3. After that, Write any Name in the Storage account name field click on REVIEW, and then the CREATE button 
 
 4. After Deployed Successfully, go to RESOURCES.
 
-5. In Resources, search for <b>Static Website</b>
+5. In Resources, search for <b>Static website</b>
 6. After that, we have to fill fill the name of the starting page i.e., index.html, and after fill click on save.
 
 7. Now, Search for <b>containers</b>.
