@@ -19,7 +19,7 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 2. Storage Accounts.
 3. Web Apps for Containers
 
-# Steps followed While Deploying on Azure Service along with Screenshot :
+# Steps followed while Deploying on Azure along with Screenshot :
 1. Firstly, Open Azure Portal
  
 2. Now, Search for <b>Storage Accounts</b>
@@ -36,6 +36,9 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 8. After opening, click on the upload button then drag and drop the source file.
 9. After uploading, again search for Static website, after opening, we can see that a Link is generated.
 10. Finally our WebApp is Deployed Successfully.
+11. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/frt1.png)
+12. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/frt2.png)
+13. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/frt3.png)
 
 # Web Technologies used :
 1. HTML
@@ -45,7 +48,7 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 # IDE Used :
 * VS Code
 
-
+# Website Overview:
 9. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h1.png)
 10. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h2.png)
 11. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h3.png)
