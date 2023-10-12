@@ -1,7 +1,7 @@
 # Home Loan WebApp
 This is my Microsoft FRT Internship Project
 
-URL: https://myprojectapp.z13.web.core.windows.net/
+URL: https://victorious-field-03e625e10.3.azurestaticapps.net
 
 # Project Statement
 This project effectively addresses the need for a user-friendly and informative platform for individuals seeking home loans, and it aligns its purpose and functionality with the identified problem statement, offering a clear and valuable solution to users in the home loan market.
