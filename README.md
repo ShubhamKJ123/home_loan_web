@@ -49,7 +49,7 @@ Home Loan is a Web-APP developed using HTML, CSS, and JAVASCRIPT. Our project se
 * VS Code
 
 # Website Overview:
-9. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h1.png)
+9. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h11.png)
 10. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h2.png)
 11. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h3.png)
 12. ![logo](https://github.com/ShubhamKJ123/home_loan_web/blob/main/ss/h4.png)
