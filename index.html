@@ -130,6 +130,30 @@
 	</section>
 	<!-- //banner -->
 	<!-- Products -->
+
+<section>
+    <h1>Home Loan Calculator</h1>
+    <div class="calculator">
+        <label for="loan-amount">Loan Amount ($):</label>
+        <input type="number" id="loan-amount" placeholder="Enter Loan Amount">
+        <label for="interest-rate">Interest Rate (%):</label>
+        <input type="number" id="interest-rate" placeholder="Enter Interest Rate">
+        <label for="loan-term">Loan Term (years):</label>
+        <input type="number" id="loan-term" placeholder="Enter Loan Term">
+        <button onclick="calculateLoan()">Calculate</button>
+        <p id="monthly-payment">Monthly Payment: $0</p>
+    </div>
+
+    <div class="floating-chatbot" id="floating-chatbot">
+        <div class="chatbot-header">
+            <h2>Chatbot</h2>
+            <button class="minimize-button" onclick="toggleChatbot()">-</button>
+        </div>
+        <div class="chat-log" id="chat-log"></div>
+        <input type="text" id="user-input" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</section>
 	<section class="services py-5">
 		<div class="container py-md-4 mt-md-3"> 
 			<h2 class="heading-agileinfo">Loan Products We Offer <span>Speed Up the Loan Process</span></h2>
